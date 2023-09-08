@@ -1,0 +1,1 @@
+A collection of python projects used to help me improve my coding skills.
