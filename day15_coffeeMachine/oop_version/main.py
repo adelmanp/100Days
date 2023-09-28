@@ -30,3 +30,4 @@ while is_on:
             print(f"[DEBUG] payment = {payment}")
         if payment == True:
             coffee_maker.make_coffee(drink)
+            
