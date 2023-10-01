@@ -12,3 +12,6 @@ Day 17 Project:
 Trivia Game
 A simple trivia game that ask the user basic true or false questions and score the answers. 
 Option for adding new questions can be found https://opentdb.com/
+
+Day 18 Art Project:
+Using Python's turtle recreate a version of Damien Hirst's painting Spots
