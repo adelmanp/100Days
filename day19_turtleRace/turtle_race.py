@@ -12,7 +12,10 @@ turtles = []
 y_position = 160
 
 while bet:
-    user_bet = screen.textinput(title='Place your bet', prompt='Which turtle will win the race? Enter a color ("red", "orange", "yellow", "green", "blue", "purple"): ')
+    user_bet = screen.textinput(title='Place your bet', prompt='Which turtle '
+                                'will win the race? Enter a color ("red", '
+                                '"orange", "yellow", "green", "blue", '
+                                '"purple"): ')
     if user_bet.lower() in colors:
         bet = False
 
