@@ -65,4 +65,8 @@ Day 19 TurtleRacing:
 Create a Turtle Race that allows the user to bet on which color turtle they think will win. 
 Bonus a function to replicate the drawing capabilities of an Etch A Sketch 
 
-Day 20
+Day 20 & 21 Snake Game:
+A remake of the classic cell phone game snake. 
+
+Day 22 Pong:
+A remake of the game Pong.
