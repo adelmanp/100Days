@@ -73,3 +73,9 @@ A remake of the game Pong.
 
 Day 23 Turtle Crossing:
 Guide your turtle across the road while avoiding the cars. 
+
+Day 24 Working with local file system and DIRs:
+Build upon the snake game in order to keep track of a high score and restart the game.
+In addition to the snake improvements, practice working with files. Todays project 
+is to auto complete a series of birthday party invites by have python uses a list of names
+to complete the inventions.
